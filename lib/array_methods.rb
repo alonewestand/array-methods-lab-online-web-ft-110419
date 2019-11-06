@@ -2,6 +2,7 @@ def using_include(array, element)
 if array[element] then true
 else false
 end
+end
 
 def using_sort(array)
 array.sort
