@@ -1,6 +1,6 @@
 def using_include(array, element=0)
-if array[element] then true
-else false
+array[element]? true : false
+
 end
 end
 
