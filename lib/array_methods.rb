@@ -1,7 +1,5 @@
 def using_include(array, element=0)
 array[element]? true : false
-
-end
 end
 
 def using_sort(array)
