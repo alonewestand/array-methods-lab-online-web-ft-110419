@@ -1,4 +1,4 @@
-def using_include(array, element)
+def using_include(array, element=0)
 if array[element] then true
 else false
 end
